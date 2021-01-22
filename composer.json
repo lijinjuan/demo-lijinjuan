@@ -6,7 +6,7 @@
             "email": "1186747596@qq.com"
         }
     ],
-    "require": {}
+    "require": {},
     "autoload":{
         "psr-4":{
         "Demo\\":"src/Demo"

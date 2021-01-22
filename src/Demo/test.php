@@ -7,4 +7,8 @@ class Test
     {
         return time();
     }
+    public function demo()
+    {
+        return 'hello';
+    }
 }

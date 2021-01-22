@@ -1,0 +1,15 @@
+{
+    "name": "demo/pakge-name",
+    "authors": [
+        {
+            "name": "lijinjuan",
+            "email": "1186747596@qq.com"
+        }
+    ],
+    "require": {}
+    "autoload":{
+        "psr-4":{
+        "Demo\\":"src/Demo"
+    }
+}
+}
